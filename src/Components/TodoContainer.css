@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+
+.contaoner{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.todo-heading{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.todo-from{
+    width:300px;
+    margin: 0 auto;
+    text-align: center;
+}
